@@ -10,7 +10,7 @@
 Регулярно практикуюсь и углубляю знания в области тестирования.
 
 📫 **Как связаться со мной:** <a href="mailto:yarrnkt@mail.ru">
-  <img src="https://cdn-icons-png.flaticon.com/128/9554/9554729.png" width="24" height="24" alt="email">
+  <img src="https://cdn-icons-png.flaticon.com/128/9554/9554729.png" width="27" height="27" alt="email" style="display:inline">
 </a>
 
 ---
