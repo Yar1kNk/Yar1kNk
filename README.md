@@ -72,7 +72,7 @@
 
 ### 📚 Testing Artefacts
 
-- [webshop testing](https://github.com/Yar1kNk/webshop-testing)
+- [Webshop testing](https://github.com/Yar1kNk/webshop-testing)
 - [API testing](https://github.com/Yar1kNk/API-testing)
 - [Android App Testing](https://github.com/Yar1kNk/Android-App-Testing)
 - [MySQL запросы](https://github.com/Yar1kNk/mysql-queries) 
