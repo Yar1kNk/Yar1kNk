@@ -25,9 +25,7 @@
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
   <img src="https://testit.software/themes/ino-testit/assets/images/footer/logo-footer.svg" title="test-it" alt="test-it" width="40" height="40"/>&nbsp;
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
  
@@ -78,21 +76,20 @@
 
 ### 📚 Testing Artefacts
 
-- [Чек-листы](https://github.com/Yar1kNk/check-list) – Чек-листы для регистрации, поиска, корзины
-- [Тест-кейсы](https://github.com/Yar1kNk/Test-Cases) – Тест-кейсы для авторизации, регистрации, поиска, корзины
-- [Баг-репорты](https://github.com/Yar1kNk/bug-reports) – Баг-репорты с шагами воспроизведения
-- [Баг-репорты корзины](https://github.com/Yar1kNk/cart-bug-reports) – Баги функциональности корзины
-- [Баг-репорты мобильного приложения](https://github.com/Yar1kNk/mobile-bug-reports) – Баги в мобильном приложении
-- [Тест-кейсы мобильного приложения](https://github.com/Yar1kNk/mobile-test-cases) – Тест-кейсы для Android/iOS
-- [Чек-лист мобильного приложения](https://github.com/Yar1kNk/mobile-testing-checklist) – Чек-лист для тестирования мобильных приложений
-- [MySQL запросы](https://github.com/Yar1kNk/mysql-queries) – SELECT и JOIN запросы для тестирования БД
-- [Postman коллекции](https://github.com/Yar1kNk/postman-collections) – API тестирование (REST)
-- [SoapUI коллекции](https://github.com/Yar1kNk/soap-collection) – SOAP веб-сервисы
-- [Charles Proxy](https://github.com/Yar1kNk/charles-proxy) – Перехват и подмена трафика
-- [Эквивалентное разбиение](https://github.com/Yar1kNk/Equivalence-Partitioning) – Техника классов эквивалентности
-- [Граничные значения](https://github.com/Yar1kNk/Equivalence-Partitioning) – Техника анализа граничных значений (в том же репозитории)
-- [Попарное тестирование](https://github.com/Yar1kNk/Pairwise-Testing) – Pairwise Testing для сокращения комбинаций
-- [Таблица принятия решений](https://github.com/Yar1kNk/decision-table-testing) – Decision Table для тестирования логики
-- [Анализ требований и макета](https://github.com/Yar1kNk/mockups-requirements-review) – Анализ требований и замечания по макетам
+- [Чек-листы](https://github.com/Yar1kNk/check-list)
+- [Тест-кейсы](https://github.com/Yar1kNk/Test-Cases)
+- [Баг-репорты](https://github.com/Yar1kNk/bug-reports)
+- [Баг-репорты корзины](https://github.com/Yar1kNk/cart-bug-reports)
+- [Баг-репорты мобильного приложения](https://github.com/Yar1kNk/mobile-bug-reports)
+- [Тест-кейсы мобильного приложения](https://github.com/Yar1kNk/mobile-test-cases)
+- [Чек-лист мобильного приложения](https://github.com/Yar1kNk/mobile-testing-checklist) 
+- [MySQL запросы](https://github.com/Yar1kNk/mysql-queries) 
+- [Postman коллекции](https://github.com/Yar1kNk/postman-collections)
+- [SoapUI коллекции](https://github.com/Yar1kNk/soap-collection)
+- [Charles Proxy](https://github.com/Yar1kNk/charles-proxy) 
+- [Эквивалентное разбиение](https://github.com/Yar1kNk/Equivalence-Partitioning)
+- [Попарное тестирование](https://github.com/Yar1kNk/Pairwise-Testing) 
+- [Таблица принятия решений](https://github.com/Yar1kNk/decision-table-testing)
+- [Анализ требований и макета](https://github.com/Yar1kNk/mockups-requirements-review) 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yar1kNk)
