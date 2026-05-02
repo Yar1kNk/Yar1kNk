@@ -72,10 +72,7 @@
 
 ### 📚 Testing Artefacts
 
-- [Чек-листы](https://github.com/Yar1kNk/check-list)
-- [Тест-кейсы](https://github.com/Yar1kNk/Test-Cases)
-- [Баг-репорты](https://github.com/Yar1kNk/bug-reports)
-- [Баг-репорты корзины](https://github.com/Yar1kNk/cart-bug-reports)
+- [webshop-testing](https://github.com/Yar1kNk/webshop-testing) 
 - [Баг-репорты мобильного приложения](https://github.com/Yar1kNk/mobile-bug-reports)
 - [Тест-кейсы мобильного приложения](https://github.com/Yar1kNk/mobile-test-cases)
 - [Чек-лист мобильного приложения](https://github.com/Yar1kNk/mobile-testing-checklist) 
@@ -83,9 +80,5 @@
 - [Postman коллекции](https://github.com/Yar1kNk/postman-collections)
 - [SoapUI коллекции](https://github.com/Yar1kNk/soap-collection)
 - [Charles Proxy](https://github.com/Yar1kNk/charles-proxy) 
-- [Эквивалентное разбиение](https://github.com/Yar1kNk/Equivalence-Partitioning)
-- [Попарное тестирование](https://github.com/Yar1kNk/Pairwise-Testing) 
-- [Таблица принятия решений](https://github.com/Yar1kNk/decision-table-testing)
-- [webshop-testing](https://github.com/Yar1kNk/webshop-testing) 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yar1kNk)
