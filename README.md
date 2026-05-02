@@ -72,13 +72,10 @@
 
 ### 📚 Testing Artefacts
 
-- [webshop-testing](https://github.com/Yar1kNk/webshop-testing)
-- [API-testing](https://github.com/Yar1kNk/API-testing)
-- [Баг-репорты мобильного приложения](https://github.com/Yar1kNk/mobile-bug-reports)
-- [Тест-кейсы мобильного приложения](https://github.com/Yar1kNk/mobile-test-cases)
-- [Чек-лист мобильного приложения](https://github.com/Yar1kNk/mobile-testing-checklist) 
+- [webshop testing](https://github.com/Yar1kNk/webshop-testing)
+- [API testing](https://github.com/Yar1kNk/API-testing)
+- [Android App Testing](https://github.com/Yar1kNk/Android-App-Testing)
 - [MySQL запросы](https://github.com/Yar1kNk/mysql-queries) 
-
 - [Charles Proxy](https://github.com/Yar1kNk/charles-proxy) 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yar1kNk)
