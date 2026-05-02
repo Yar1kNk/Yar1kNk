@@ -9,7 +9,7 @@
 Изучаю инструменты тестирования и подходы к обеспечению качества ПО.
 Регулярно практикуюсь и углубляю знания в области тестирования.
 
-- 📫 Как связаться со мной: [![email](https://img.shields.io/badge/email-mail-blue?logo=mail&logoColor=white)](mailto:yarrnkt@mail.ru)
+- 📫 Как связаться со мной: [![email](https://cdn-icons-png.flaticon.com/128/9554/9554729.png)](mailto:yarrnkt@mail.ru)
 
 ---
 
