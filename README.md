@@ -9,7 +9,9 @@
 Изучаю инструменты тестирования и подходы к обеспечению качества ПО.
 Регулярно практикуюсь и углубляю знания в области тестирования.
 
-- 📫 Как связаться со мной: [![email](https://cdn-icons-png.flaticon.com/128/9554/9554729.png)](mailto:yarrnkt@mail.ru)
+📫 **Как связаться со мной:** <a href="mailto:yarrnkt@mail.ru">
+  <img src="https://cdn-icons-png.flaticon.com/128/9554/9554729.png" width="24" height="24" alt="email">
+</a>
 
 ---
 
