@@ -86,6 +86,6 @@
 - [Эквивалентное разбиение](https://github.com/Yar1kNk/Equivalence-Partitioning)
 - [Попарное тестирование](https://github.com/Yar1kNk/Pairwise-Testing) 
 - [Таблица принятия решений](https://github.com/Yar1kNk/decision-table-testing)
-- [Анализ требований и макета](https://github.com/Yar1kNk/mockups-requirements-review) 
+- [webshop-testing](https://github.com/Yar1kNk/webshop-testing) 
 ---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yar1kNk)
