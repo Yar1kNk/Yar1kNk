@@ -1,5 +1,5 @@
 # Привет, меня зовут Яромир!
-📄 Моё <a href="ССЫЛКА_НА_РЕЗЮМЕ">резюме</a>
+📄 Моё <a href="https://drive.google.com/file/d/1grXiQWGxygnuSOWnuQCv2GBbFVQv1o95/view?usp=sharing">резюме</a>
 ---
 
 ### 👨‍💻 Обо мне:
