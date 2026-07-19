@@ -1,4 +1,4 @@
-<img src="./banner.svg">
+<img src="./banner (1).svg">
 
 <h1 align="center">Привет :)👋</h1>
 
