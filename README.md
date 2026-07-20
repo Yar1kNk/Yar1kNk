@@ -92,8 +92,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  
 </div>
+
+---
+
+### ⚔️ Codewars:
+
+<a href="https://www.codewars.com/users/Yar1kNk">
+  <img src="https://www.codewars.com/users/Yar1kNk/badges/large">
+</a>
 
 ---
 
