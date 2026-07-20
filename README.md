@@ -16,7 +16,7 @@
 
 ### 🤝 Социальные сети:
 
-  <div id="badges"> <a href="https://t.me/Y_ar1_K" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" style="vertical-align: middle;" /></a><img width="12" /><a href="https://vk.com/ТВОЙ_ЛОГИН" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40" height="40" alt="VK" style="vertical-align: middle;" /></a> </div>
+  <div id="badges"> <a href="https://t.me/Y_ar1_K" target="_blank" style="text-decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" style="vertical-align: middle;" /></a><img width="12" /><a href="https://vk.com/@id592637244" target="_blank" style="text-decoration: none;"><img src="https://cdn.simpleicons.org/vk/0077FF" width="40" height="40" alt="VK" style="vertical-align: middle;" /></a> </div>
 
 
 ---
