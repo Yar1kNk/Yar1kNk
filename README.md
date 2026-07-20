@@ -104,4 +104,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yar1kNk/Yar1kNk/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yar1kNk)
