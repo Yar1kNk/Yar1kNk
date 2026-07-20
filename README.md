@@ -75,9 +75,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img width="12" />
-  <img src="https://images.icon-icons.com/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" height="44" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="43" alt="css3 logo"  />
+  <img src="https://images.icon-icons.com/3053/PNG/96/intellij_pycharm_macos_bigsur_icon_190055.png" height="44" alt="pycharm logo"  />
   <img width="12" />
 </div>
 
@@ -93,6 +91,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="43" alt="c++ logo"  />
   <img width="12" />
 </div>
 
